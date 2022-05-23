@@ -3,7 +3,7 @@
 
 
 Assignment for Computer Vision course at Maastricht University
-Jannik Wirtz - i6292051, Lukas Santing - i6298143
+Jannik Wirtz,Lukas Santing
 
 
 Included you will find the code, which is in a Jupyter Notebook.
